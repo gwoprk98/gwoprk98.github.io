@@ -1,13 +1,10 @@
 # main links
 main:
   - title: "Home"
-    url: https://choiiis.github.io/
-
-  - title: "About"
-    url: /about/
+    url: https://gwoprk98.github.io/
 
   - title: "GitHub"
-    url: https://github.com/choiiis
+    url: https://github.com/gwoprk98
 
   # - title: "Projects"
   #   url: /projects/
