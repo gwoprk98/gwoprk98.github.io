@@ -105,9 +105,9 @@ author:
   email: gwoprk98@gmail.com
 
   links: # 사이트 링크
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url: "gwoprk98@email.com"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "gwoprk98@email.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
@@ -117,9 +117,9 @@ author:
 #     - label: "Facebook"
 #       icon: "fab fa-fw fa-facebook-square"
 #       # url: "https://facebook.com/"
-     - label: "GitHub"
-       icon: "fab fa-fw fa-github"
-       url: "https://github.com/gwoprk98"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/gwoprk98"
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
 #       url: "https://www.instagram.com/"
