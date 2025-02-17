@@ -1,7 +1,7 @@
 ---
-title: "Categories3"
+title: "ProblemSolve"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/ProblemSolve/
 author_profile: true
 taxonomy: Categories3
 sidebar:
