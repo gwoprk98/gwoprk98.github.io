@@ -100,9 +100,9 @@ analytics:
 author:
   name: "Gnu" # 블로그 닉네임
   avatar: "/assets/images/gnu.png" # 블로그 프로필 사진
-  bio: "hello world!"
+  #bio: "hello world!"
   # location         : "Seoul, Korea"
-  email: gwoprk98@gmail.com
+  #email: gwoprk98@gmail.com
 
   links: # 사이트 링크
 #     - label: "Email"
