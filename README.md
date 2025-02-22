@@ -1,3 +1,3 @@
 # Gnu Blog
 
-- Spring & Java 중심 기술블로그
+- Spring & Java 중심 기술블로그입니다.
