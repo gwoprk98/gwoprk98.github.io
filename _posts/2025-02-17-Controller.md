@@ -180,6 +180,6 @@ public class SpringMemberControllerV3 {
     - 이는 이전 버전에서 사용하던 `request.getParameter()`와 비슷한 코드라고 생각하면 된다.
 - `@RequestMapping` -> `@PostMapping`, `@GetMapping` 이용
 
-
+> 출처: [김영한 스프링 강의](https://www.inflearn.com/roadmaps/373)
 
 

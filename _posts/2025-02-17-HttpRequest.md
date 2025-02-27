@@ -46,3 +46,4 @@ username=kim&age=20
     
 이 외에도, `HttpServletRequest`은 임시 저장소 기능, 세션 관리 기능과같은 부가 기능을 제공한다.
 
+> 출처: [김영한 스프링 강의](https://www.inflearn.com/roadmaps/373)

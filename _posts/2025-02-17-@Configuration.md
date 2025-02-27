@@ -106,3 +106,5 @@ void configurationDeep() {
 - 이로인하여 싱글톤이 보장된다.
 
 > `@Configuration`을 사용하지 않고 `@Bean`만 적용한다면 스프링 빈으로 등록은 가능하지만 싱글톤이 보장되지 않는다. 따라서 스프링 설정 정보를 사용할때는 항상 `@Configuration`을 사용하는것이 좋다.
+
+>출처: [김영한 스프링 강의](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%95%B5%EC%8B%AC-%EC%9B%90%EB%A6%AC-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
