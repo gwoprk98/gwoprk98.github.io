@@ -9,15 +9,15 @@ tags: # 포스트 태그
 
 permalink: /Web/http-request/ # 포스트 URL
 
-toc: true # 우측에 본문 목차 네비게이션 생성
-toc_sticky: true # 본문 목차 네비게이션 고정 여부
+toc: false # 우측에 본문 목차 네비게이션 생성
+toc_sticky: false # 본문 목차 네비게이션 고정 여부
 
 date: 2025-02-17 # 작성 날짜
 last_modified_at: 2025-02-17 # 최종 수정 날짜
 ---
 
 
-## HttpServlerRequest
+## HttpServletRequest
 
 #### HttpServletRequest의 역할
 서블릿은 개발자가 HTTP 요청 메시지를 편리하게 사용할 수 있도록 개발자 대신에 HTTP 요청 메시지를 파싱한다. 그리고 그 결과를 `HttpServletRequest`에 담아 제공한다.
